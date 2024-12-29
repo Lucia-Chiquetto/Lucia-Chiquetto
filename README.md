@@ -33,6 +33,7 @@
   <img align="center" alt="Rafa-Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Rafa-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Rafa-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Rafa-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
 
