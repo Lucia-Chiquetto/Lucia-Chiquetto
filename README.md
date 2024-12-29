@@ -2,8 +2,6 @@
 
 ## Hi! I'm Lúcia Chiquetto 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m currently learning Platform Engineering. 
 - 😄 Pronouns: She/Her. 
