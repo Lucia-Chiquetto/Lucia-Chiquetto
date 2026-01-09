@@ -40,5 +40,3 @@
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/Lucia-Chiquetto/blob/output/github-contribution-grid-snake.svg)
-
