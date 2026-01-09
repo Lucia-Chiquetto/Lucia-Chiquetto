@@ -2,11 +2,16 @@
 
 ## Hi! I'm Lúcia Chiquetto 🖖🏻🤖🧠
 
-- 🔭 I’m currently working on Full Stack Development.
-- 🌱 I’m currently learning Platform Engineering. 
-- 😄 Pronouns: She/Her.
+- 🔭 I’m currently working on AI Software Engineer at @ [WEG](https://www.weg.net/institutional/BR/pt/)
+- 🌱 I’m currently learning Data Engineer
+- 📫 How to reach me: https://www.linkedin.com/in/lúcia-chiquetto
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 🧠 **Specialist:** Data Science & Artificial Intelligence @ [Uninter](https://www.uninter.com/)
+               🚀 **MBA:** Software Engineering @ [USP](https://www5.usp.br/)
+               💻 **Undergrad:** Systems Analysis & Development @ [PUCPR](https://www.pucpr.br/)
+               ⚖️ **Previous Background:** Law Degree / LL.B. @ [Universidade Positivo](https://www.up.edu.br/)
 
-   ## I use daily: 🎮
+## I use daily: 🎮
    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
