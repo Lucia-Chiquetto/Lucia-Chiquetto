@@ -30,6 +30,7 @@
   <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
 
+
   
   ## Network with me ☎️
  
@@ -37,3 +38,7 @@
   <a href = "mailto:lucia.chiquetto98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/l%C3%BAcia-chiquetto/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/Lucia-Chiquetto/blob/output/github-contribution-grid-snake.svg)
+
